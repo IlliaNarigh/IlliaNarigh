@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on AI and data analytics projects  
-- 🌱 I’m learning Pandas, NumPy, GraphQL, and advanced Python frameworks
+- 🌱 I’m learning Pandas, NumPy, GraphQL, and advanced Python frameworks  
 - 💬 Ask me about Python, Pandas, NumPy, or APIs  
 
 ---
@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
+---
+
 ### 🔗 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)  
@@ -52,21 +54,11 @@
 
 ### 📊 GitHub Stats
 
-[![Illia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOCTPATIK&show_icons=true&theme=radical)](https://github.com/KOCTPATIK)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCTPATIK&layout=compact&theme=radical)](https://github.com/KOCTPATIK)
+[![Illia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlliaNarigh&show_icons=true&theme=radical)](https://github.com/IlliaNarigh)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaNarigh&layout=compact&theme=radical)](https://github.com/IlliaNarigh)
 
 ---
 
 ### 📈 Contribution Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladurka&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/KOCTPATIK)
-
----
-
-### 🎨 Aesthetic Touch
-
-<p align="center">
-  <img src="[https://i.imgur.com/78XyOtb.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI4ZTBiYmY5NDNiY2IxZmY1ZGEzNmY0YmU5MTFlYzA1ZWU5NGU4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" width="480">
-</p>
-
-<sub><i>*Custom Blender / Creative animation GIF with inverted colors for dark themes*</i></sub>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IlliaNarigh&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/IlliaNarigh)
