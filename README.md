@@ -51,7 +51,7 @@
          style="border-radius: 8px; height: 28px;" />
   </a><br>
 
-  <a href="https://instagram.com/your_username" target="_blank" style="margin-bottom: 8px; display: inline-block;">
+  <a href="https://instagram.com/narighillya" target="_blank" style="margin-bottom: 8px; display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" 
          style="border-radius: 8px; height: 28px;" />
   </a><br>
