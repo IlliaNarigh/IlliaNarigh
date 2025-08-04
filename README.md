@@ -56,7 +56,7 @@
          style="border-radius: 8px; height: 28px;" />
   </a><br>
 
-  <a href="https://discord.com/users/your_id" target="_blank" style="margin-bottom: 8px; display: inline-block;">
+  <a href="https://discord.com/users/1089283491428044862" target="_blank" style="margin-bottom: 8px; display: inline-block;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" 
      style="border-radius: 8px; height: 28px;" />
   </a><br>
